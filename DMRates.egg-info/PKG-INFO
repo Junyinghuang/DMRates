@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: DMRates
+Version: 1.0
+Summary: A package used to calculate WIMP spectra
+Author: Zihao Xu
+Author-email: xzh19980906@gmail.com
+License: MIT
+Keywords: WIMP,spin-independent,spin-dependent,EFT
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: keywords
+Dynamic: license
+Dynamic: license-file
+Dynamic: summary

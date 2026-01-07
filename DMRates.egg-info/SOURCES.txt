@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+DMRates/CONST.py
+DMRates/EFT.py
+DMRates/MATCH.py
+DMRates/QCD.py
+DMRates/STANDARD.py
+DMRates/__init__.py
+DMRates.egg-info/PKG-INFO
+DMRates.egg-info/SOURCES.txt
+DMRates.egg-info/dependency_links.txt
+DMRates.egg-info/not-zip-safe
+DMRates.egg-info/top_level.txt
